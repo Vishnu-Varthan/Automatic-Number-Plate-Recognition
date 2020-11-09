@@ -3,7 +3,7 @@
 This project is to detect and recognize the Indian License plate in images.
 
 <p align="center">
-  <img src="results/results.jpg" width="350" title="Result">
+  <img src="results/results.jpg" width="650" title="Result">
 </p>
 
 ### Technologies
