@@ -37,5 +37,7 @@ Another YOLOv3 model is used to detect the character in the preprocessed image w
 #### Character Classification
 Finally the LeNet architecture is used to classify the letter and numbers in the image.
 
-#### NOTE:
-model file wll be uploaded.
+#### MODEL FILE:
+Download model from the google drive 
+https://drive.google.com/drive/folders/14e051ocMTDwH7EHP4Y7l-RkFa-LUe-vR?usp=sharing
+and move to the model folder.
