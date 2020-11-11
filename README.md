@@ -6,6 +6,11 @@ This project is to detect and recognize the Indian License plate in images.
   <img src="results/results.jpg" width="650" title="Result">
 </p>
 
+#### MODEL FILE:
+Download model from the google drive 
+https://drive.google.com/drive/folders/14e051ocMTDwH7EHP4Y7l-RkFa-LUe-vR?usp=sharing
+and move to the model folder.
+
 ### Technologies
 This project is created with 
 * python 3.7
@@ -37,7 +42,3 @@ Another YOLOv3 model is used to detect the character in the preprocessed image w
 #### Character Classification
 Finally the LeNet architecture is used to classify the letter and numbers in the image.
 
-#### MODEL FILE:
-Download model from the google drive 
-https://drive.google.com/drive/folders/14e051ocMTDwH7EHP4Y7l-RkFa-LUe-vR?usp=sharing
-and move to the model folder.
