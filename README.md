@@ -1,3 +1,8 @@
+# Maintenance Status  :warning:
+This project is no longer actively maintained.
+
+<hr>
+
 # Automatic-Number-Plate-Recognition
 
 This project is to detect and recognize the Indian License plate in images.
